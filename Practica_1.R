@@ -1,1 +1,6 @@
-#Practica 1
+#Habilitar librerias
+library(dplyr)
+library(stringr)
+library(readr)
+library(tidyr)
+
